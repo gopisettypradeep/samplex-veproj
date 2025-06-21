@@ -1,4 +1,5 @@
 #!/bin/bash
 
 echo "Pradeep started code"
+greet="hello buddie nellore"
 
