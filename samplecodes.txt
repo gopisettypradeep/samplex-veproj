@@ -2,4 +2,4 @@
 
 echo "Pradeep started code"
 greet="hello buddie nellore"
-
+pincode=524152
